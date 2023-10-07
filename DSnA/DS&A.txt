@@ -1,0 +1,7 @@
+Whats a data structure? 
+A named location that can be used to store and organize data. 
+eg: Array
+Whats an algorithm?
+A collection of steps to solve a problem.
+eg: Linear search.
+

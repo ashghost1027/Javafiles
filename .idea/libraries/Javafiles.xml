@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Javafiles">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/colors.jar!/" />
+      <root url="jar://$PROJECT_DIR$/linux_jre.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
